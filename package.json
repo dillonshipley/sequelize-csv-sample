@@ -1,0 +1,15 @@
+{
+  "name": "sequelize-csv-sample",
+  "version": "1.0.0",
+  "description": "A sample implementation of the sequelize-csv package",
+  "main": "sampleImplementation.js",
+  "scripts": {
+    "test": "node sampleImplmentation.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "sequelize-csv-auto": "^1.0.0"
+  }
+}
